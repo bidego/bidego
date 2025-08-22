@@ -38,6 +38,12 @@ Tecnologías: **Quarkus, JPA, Panache, MSSQL**
 
 ---
 
+## 🌐 Mi Portfolio Web
+
+Puedes ver mi portfolio completo y otros proyectos en línea aquí: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
+
+---
+
 ## 📊 Mis métricas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidego&show_icons=true&theme=radical&hide_border=true)  
@@ -89,6 +95,12 @@ Technologies: **Play Framework, React, PostgreSQL, Docker, GCP**
 🔹 [**quarkus-multidatasource**](https://github.com/bidego/quarkus-multidatasource)  
 POC with Quarkus, Hibernate ORM + Panache and 2 MSSQL datasources.  
 Technologies: **Quarkus, JPA, Panache, MSSQL**  
+
+---
+
+## 🌐 My Web Portfolio
+
+You can see my complete portfolio and other online projects here: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
 
 ---
 
