@@ -40,7 +40,7 @@ Tecnologías: **Quarkus, JPA, Panache, MSSQL**
 
 ## 🌐 Mi Portfolio Web
 
-Puedes ver mi portfolio completo y otros proyectos en línea aquí: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
+Puedes ver mi portfolio en línea aquí: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
 
 ---
 
@@ -100,7 +100,7 @@ Technologies: **Quarkus, JPA, Panache, MSSQL**
 
 ## 🌐 My Web Portfolio
 
-You can see my complete portfolio and other online projects here: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
+You can see my portfolio here: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
 
 ---
 
