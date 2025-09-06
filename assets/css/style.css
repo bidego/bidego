@@ -14,7 +14,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero {
-    background: linear-gradient(45deg, #007bff, #00d2ff);
+    /* Imagen de fondo con una capa de color azul superpuesta */
+    background-image: linear-gradient(rgba(0, 123, 255, 0.85), rgba(0, 123, 255, 0.85)), url('../img/hero-background.jpg');
+    
+    /* Asegura que la imagen cubra toda la sección */
+    background-size: cover;
+    background-position: center;
+    
+    /* Estilos que ya teníamos */
     color: white;
     padding: 100px 0;
     text-align: center;
