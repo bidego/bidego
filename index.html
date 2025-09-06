@@ -4,125 +4,139 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio de bidego</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            background-color: #e0f7fa; /* Light blue background */
-            color: #263238; /* Dark text */
-            line-height: 1.6;
-        }
-        .container {
-            background-color: #ffffff;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-            text-align: center;
-            max-width: 800px;
-            width: 90%;
-        }
-        h1 {
-            color: #00796b; /* Teal color */
-            margin-bottom: 20px;
-        }
-        .sound-experience h2 {
-            color: #00796b; /* Teal color for consistency */
-            margin-bottom: 15px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        .portfolio-links a {
-            display: inline-block;
-            background-color: #00bcd4; /* Cyan color */
-            color: white;
-            padding: 10px 20px;
-            margin: 10px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
-        }
-        .portfolio-links a:hover {
-            background-color: #0097a7; /* Darker cyan on hover */
-        }
-        .github-pages-info {
-            margin-top: 30px;
-            font-size: 0.9em;
-            color: #546e7a;
-        }
-        .sound-experience ul {
-            list-style: none;
-            padding: 0;
-            margin: 20px 0;
-        }
-        .sound-experience li {
-            background-color: #e0f2f7; /* Light blue for list items */
-            margin-bottom: 8px;
-            padding: 10px 15px;
-            border-radius: 5px;
-            text-align: left;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-        }
-        .language-switcher {
-            margin-bottom: 20px;
-        }
-        .language-switcher a {
-            color: #00796b;
-            text-decoration: none;
-            font-weight: bold;
-        }
-    </style>
-    <link rel="icon" href="/favicon-noti42.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon-tukit.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon-sudoku.ico" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%20width='16'%20height='16'%3E%3Crect%20width='16'%20height='16'%20fill='%23007bff'/%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='sans-serif'%20font-size='10'%20fill='white'%3Eb%3C/text%3E%3C/svg%3E" type="image/svg+xml">
 </head>
 <body>
-    <div class="container">
-        <div class="language-switcher">
-            Español | <a href="index-en.html">English</a>
-        </div>
-        <h1>¡Hola! Soy Gonza</h1>
-        <p>Cofundador de <a href="https://pentagrama.tech" target="_blank" rel="noopener noreferrer"> pentagrama.tech</a></p>
-        <p>Bienvenido a mi portfolio personal. Aquí comparto algunos de mis proyectos:</p>
-        <div class="portfolio-links">
-            <a href="https://noti42.com" target="_blank" rel="noopener noreferrer"><img src="assets/favicons/noti42.ico" alt="Noti42 Favicon" width="16" height="16" style="vertical-align: middle;"> noti42.com</a>
-            <a href="https://tukit.uk" target="_blank" rel="noopener noreferrer"><img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://tukit.uk&size=16" alt="Tukit Favicon" width="16" height="16" style="vertical-align: middle;"> tukit.uk</a>
-            <a href="https://sudaku-web.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="assets/favicons/sudaku.ico" alt="Sudoku Favicon" width="16" height="16" style="vertical-align: middle;"> Sudoku (mensajeria RTA)</a>
-        </div>
-        
-        <p>¡Si queres escribir en noti42.com escribime a <a href="mailto:contacto@noti42.com">contacto@noti42.com</a></p>
 
-        <div class="sound-experience">
-            <h2>Experiencia en Sonido</h2>
-            <p>Como técnico de grabación, he tenido el privilegio de trabajar en los siguientes discos:</p>
-            <ul>
-                <li><strong>Fumigandonos</strong> (Bettinoti Fernandez)</li>
-                <li><strong>Esquifuzos</strong> (Bettinoti Fernandez)</li>
-                <li><strong>Acertijos</strong> (Alejandro Bettinotti)</li>
-                <li><strong>Retribucion del Karma</strong> (Oridios)</li>
-                <li><strong>Destellos</strong> (Ezequiel Spika)</li>
-            </ul>
-            <p>Como músico he trabajado en los siguientes discos:</p>
-            <ul>
-                <li><strong>Non tuffatevi</strong> (Oridios)</li>
-                <li><strong>Fumigandonos</strong> (Bettinoti Fernandez)</li>
-                <li><strong>Esquifuzos</strong> (Bettinoti Fernandez)</li>
-                <li><strong>Untables Vol 1.</strong> (Untables)</li>
-                <li><strong>Untables Vol 2.</strong> (Untables)</li>
-                <li><strong>Destellos</strong> (Ezequiel Spika)</li>
-            </ul>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">bidego</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#projects">Proyectos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sound-experience">Experiencia en Sonido</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contacto</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index-en.html">English</a>
+                    </li>
+                </ul>
+            </div>
         </div>
+    </nav>
 
-        <p>¡Pronto habrá más proyectos aquí!</p>
-    </div>
-    <div class="github-pages-info">
-        <p><a href="mailto:gonzalo.bide@gmail.com">gonzalo.bide@gmail.com</a> si tienes alguna pregunta o comentario.</p>
-    </div>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <h1>¡Hola! Soy Gonza</h1>
+            <p class="lead">Desarrollador de Software e Infraestructura</p>
+            <p class="lead">Musico</p>
+            <p class="lead">Cofundador de <a href="https://pentagrama.tech" target="_blank" rel="noopener noreferrer" class="text-white">pentagrama.tech</a></p>
+        </div>
+    </header>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-5">Mis Proyectos</h2>
+            <div class="row">
+                <!-- Project 1 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card project-card">
+                        <img src="assets/favicons/noti42.ico" class="card-img-top" alt="Noti42">
+                        <div class="card-body">
+                            <h5 class="card-title">noti42.com</h5>
+                            <p class="card-text">Un agregador de noticias personalizable. Desarrollado con PlayFramework Scala, React y Node.js.</p>
+                            <a href="https://noti42.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Visitar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project 2 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card project-card">
+                        <img src="assets/favicons/tukituk.png" class="card-img-top" alt="Tukit">
+                        <div class="card-body">
+                            <h5 class="card-title">tukit.uk</h5>
+                            <p class="card-text">Una plataforma para compartir y descubrir música. Creada con Vue.js y Firebase.</p>
+                            <a href="https://tukit.uk" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Visitar</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project 3 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card project-card">
+                        <img src="assets/favicons/sudaku.ico" class="card-img-top" alt="Sudaku">
+                        <div class="card-body">
+                            <h5 class="card-title">Sudoku (mensajeria RTA)</h5>
+                            <p class="card-text">Una aplicación experimental de mensajería en tiempo real y sudokus. Hecha con NodeJs, Pusher y WebSockets.</p>
+                            <a href="https://sudaku-web.vercel.app/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Visitar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sound Experience Section -->
+    <section id="sound-experience" class="sound-experience">
+        <div class="container">
+            <h2 class="text-center mb-5">Experiencia en Sonido</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <h3>Técnico de Grabación</h3>
+                    <ul class="list-group">
+                        <li class="list-group-item"><strong>Fumigandonos</strong> (Bettinoti Fernandez)</li>
+                        <li class="list-group-item"><strong>Esquifuzos</strong> (Bettinoti Fernandez)</li>
+                        <li class="list-group-item"><strong>Acertijos</strong> (Alejandro Bettinotti)</li>
+                        <li class="list-group-item"><strong>Retribucion del Karma</strong> (Oridios)</li>
+                        <li class="list-group-item"><strong>Destellos</strong> (Ezequiel Spika)</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h3>Músico</h3>
+                    <ul class="list-group">
+                        <li class="list-group-item"><strong>Non tuffatevi</strong> (Oridios)</li>
+                        <li class="list-group-item"><strong>Fumigandonos</strong> (Bettinoti Fernandez)</li>
+                        <li class="list-group-item"><strong>Esquifuzos</strong> (Bettinoti Fernandez)</li>
+                        <li class="list-group-item"><strong>Untables Vol 1.</strong> (Untables)</li>
+                        <li class="list-group-item"><strong>Untables Vol 2.</strong> (Untables)</li>
+                        <li class="list-group-item"><strong>Destellos</strong> (Ezequiel Spika)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <footer id="contact" class="footer">
+        <div class="container text-center">
+            <p>¿Interesado en colaborar? ¡Hablemos!</p>
+            <p><a href="mailto:gonzalo.bide@gmail.com">gonzalo.bide@gmail.com</a></p>
+            <div>
+                <a href="https://github.com/bidego" class="text-white me-3" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-2x"></i></a>
+                <a href="https://www.linkedin.com/in/gonzalo-bide-8b3b2627/" class="text-white" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin fa-2x"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

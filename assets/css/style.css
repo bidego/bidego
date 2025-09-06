@@ -1,0 +1,49 @@
+/* assets/css/style.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.hero {
+    background: linear-gradient(45deg, #007bff, #00d2ff);
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+}
+
+.project-card {
+    transition: transform .2s;
+    box-shadow: 0 4px 8px rgba(0,0,0,.1);
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}
+
+.sound-experience {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 40px 0;
+}
+
+.footer a {
+    color: #00d2ff;
+}
