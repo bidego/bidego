@@ -9,8 +9,9 @@
 Soy un apasionado de la tecnología con más de **20 años de experiencia** en desarrollo de software y actualmente enfocado en **SRE/DevOps**, estandarización de entornos y automatización de delivery en la nube.  
 Trabajo día a día con **Kubernetes (GKE), GitLab CI/CD, Bash Scripting, Terraform, Istio, HashiCorp Vault**, además de experiencia en backend con **Java, Node.js, Ruby, Scala** Y Frameworks como **Play Framework, Spring, Micronaut, Quarkus, NestJS**.
 
-He participado en proyectos que van desde **sistemas de gestión de inventarios** hasta **CMS multi-tenant** y **APIs REST con interfaces React para gestión de productos y stocks**.  
-Me enfrenté a grandes desafíos como realizar **ingeniería inversa en sistemas críticos** y liderar **migraciones de monolitos on-premise hacia la nube**.
+He participado en proyectos para la industria de comercio que van desde **sistemas de gestión de inventarios** hasta **CMS multi-tenant** **APIs REST con interfaces React para gestión de productos y stocks**.
+Trabajé en sistemas financieros de Bancos Privados de plataformas multipago como en integraciones con plataformas externas para analisis de riesgo.
+Trabajando en la industria de Salud desde 2015 cuando desarrolé un sistema de turnos que vivió 7 años, RIP. Lugo me enfrenté a grandes desafíos como realizar **ingeniería inversa en sistemas críticos** y liderar **migraciones de monolitos on-premise hacia la nube** así como implmentar standard de interoperabilidad FHIR para compañías líder de la industria.
 
 ---
 
@@ -59,11 +60,21 @@ Puedes ver mi portfolio en línea aquí: [**bidego.github.io/bidego**](https://b
 
 💻 **Senior Developer** | 🌐 **SRE / DevOps** | 🚀 **Passionate about architecture and automation**
 
-I’m a technology enthusiast with over **20 years of experience** in software development, currently focused on **SRE/DevOps**, environment standardization, and cloud delivery automation.  
-My daily stack includes **Kubernetes (GKE), GitLab CI/CD, Bash scripting, Terraform, Istio, and HashiCorp Vault**, plus backend experience with **Java, Node.js, Ruby, Scala** and frameworks like **Play Framework, Spring, Micronaut, Quarkus, NestJS** 
+I am a tech-passionate professional with **20+ years of experience** in software development, now focused on **SRE/DevOps**, environment standardization, and cloud automation.
 
-I’ve worked on projects ranging from **inventory management systems** to **multi-tenant CMS** and **REST APIs with React interfaces for product & stock management**.
-I’ve faced big challenges like performing **reverse engineering on critical systems** and leading **on-premise monolith migrations to the cloud**.
+Core Tech Stack:
+
+Infrastructure: **Kubernetes (GKE), GitLab CI/CD, Terraform, Istio, HashiCorp Vault, Bash Scripting**.
+
+Backend & Frameworks: Java, Node.js, Ruby, Scala | Play Framework, Spring, Micronaut, Quarkus, NestJS.
+
+Experience Highlights:
+
+Retail: Developed everything from inventory management systems to multi-tenant CMS and React-powered REST APIs for stock management.
+
+Fintech: Worked on private banking multi-payment platforms and external risk analysis integrations.
+
+Healthcare: Involved in the industry since 2015. After building a scheduling system that served its purpose for 7 years (RIP), I moved on to high-stakes challenges: **reverse engineering legacy critical systems** and leading **on-premise to cloud migrations** for industry-leading companies, as well as **implementing FHIR interoperability standards**.
 
 ---
 
