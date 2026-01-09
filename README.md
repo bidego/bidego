@@ -42,13 +42,6 @@ Tecnologías: **Quarkus, JPA, Panache, MSSQL**
 
 Puedes ver mi portfolio en línea aquí: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
 
----
-
-## 📊 Mis métricas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidego&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidego&layout=compact&theme=radical&hide_border=true)  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=bidego&style=flat-square&color=blue)
 
 ---
@@ -102,17 +95,6 @@ Technologies: **Quarkus, JPA, Panache, MSSQL**
 
 You can see my portfolio here: [**bidego.github.io/bidego**](https://bidego.github.io/bidego/)
 
----
-
-## 📊 My Metrics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidego&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidego&layout=compact&theme=radical&hide_border=true)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=bidego&style=flat-square&color=blue)
-
----
-
 ## 📫 Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gonzalo-bide-8b3b2627/)  
@@ -121,3 +103,5 @@ You can see my portfolio here: [**bidego.github.io/bidego**](https://bidego.gith
 ---
 
 ✨ *Always exploring new ways to automate, optimize, and build scalable solutions.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=bidego&style=flat-square&color=blue)
